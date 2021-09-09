@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b7c5d05.chunk.css",
+    "main.js": "/static/js/main.73e357bc.chunk.js",
+    "main.js.map": "/static/js/main.73e357bc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d61493ab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d61493ab.js.map",
+    "static/js/2.5b1789a6.chunk.js": "/static/js/2.5b1789a6.chunk.js",
+    "static/js/2.5b1789a6.chunk.js.map": "/static/js/2.5b1789a6.chunk.js.map",
+    "static/js/3.e8b26b3a.chunk.js": "/static/js/3.e8b26b3a.chunk.js",
+    "static/js/3.e8b26b3a.chunk.js.map": "/static/js/3.e8b26b3a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1b7c5d05.chunk.css.map": "/static/css/main.1b7c5d05.chunk.css.map",
+    "static/js/2.5b1789a6.chunk.js.LICENSE.txt": "/static/js/2.5b1789a6.chunk.js.LICENSE.txt",
+    "static/media/Khawla Art & Culture logo.bb59a945.jpg": "/static/media/Khawla Art & Culture logo.bb59a945.jpg",
+    "static/media/khawla_logo_onscroll.ab888f0f.png": "/static/media/khawla_logo_onscroll.ab888f0f.png",
+    "static/media/painting Fadi Alawayid.8af7145a.jpg": "/static/media/painting Fadi Alawayid.8af7145a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d61493ab.js",
+    "static/js/2.5b1789a6.chunk.js",
+    "static/css/main.1b7c5d05.chunk.css",
+    "static/js/main.73e357bc.chunk.js"
+  ]
+}

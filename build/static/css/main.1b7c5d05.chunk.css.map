@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACI,SAAS,CACT,QACJ,CACA,mBACI,oBAAqB,CACrB,YACJ","file":"main.1b7c5d05.chunk.css","sourcesContent":["*{\r\n    padding:0;\r\n    margin:0;\r\n}\r\na,a:hover,a:active{\r\n    text-decoration: none;\r\n    outline: none;\r\n}"]}
